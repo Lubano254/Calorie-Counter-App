@@ -1,2 +1,2 @@
-# Calory-Counter-App
-A calory counting app
+# Calorie-Counter-App
+A calorie counting app
